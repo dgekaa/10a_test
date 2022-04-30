@@ -1,3 +1,10 @@
+Dzień dobry. 
+
+Przepraszamy, nie miałem wystarczająco dużo czasu, aby wyczyścić kod i sprawdzić błędy. 
+
+Wykonanie zadania zajęło około 6 godzin.
+
+
 <<<<<<< HEAD
 # Getting Started with Create React App
 
